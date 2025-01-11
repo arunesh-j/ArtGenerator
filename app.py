@@ -9,7 +9,7 @@ st.set_page_config(
     page_title="Mandala Art Generator",
     page_icon="🎨",
     layout="centered"
-)
+) 
 
 def generate_prompt(inspiration_word):
     """Generate a detailed prompt for DALL-E based on the inspiration word."""

@@ -7,11 +7,11 @@ on:
     branches: [ main ]
 
 env:
-  ACCOUNT_ID: 277707114893
-  APP_NAME: sample-app 
-  CLUSTER_NAME: jun14clus
+  ACCOUNT_ID: 992382381729
+  APP_NAME: test-serv 
+  CLUSTER_NAME: ai-edge
   ECR_REGISTRY: zop-dev
-  NAMESPACE: tesing-vyom   
+  NAMESPACE: ai-edge   
   REGION: us-east-1
 
 jobs:
